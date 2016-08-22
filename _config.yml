@@ -1,26 +1,26 @@
-color:
-  saturation: 0.5634056
-  brandStrength: 0.1897809
-  rhythmicContrast: 0.2026017
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  lightness: 0.6704611
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.1390391
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.0905503
+color:
+  saturation: 0.5634056
+  brandStrength: 0.1897809
+  lightness: 0.6704611
+  brandColors:
+    - '#C5CED5'
+    - '#0F140F'
+    - '#F9F9F7'
+    - '#7290C4'
+    - '#565D34'
+  rhythmicContrast: 0.2026017
+layout_spectrum: 0.1390391
 name: 'ondrejka '
