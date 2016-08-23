@@ -24,3 +24,7 @@ color:
 typography_spectrum: 0.0905503
 layout_spectrum: 1
 name: 'ondrejka '
+navigation:
+  - name: ih8mud
+    url: forum.ih8mud.com
+    type: external
